@@ -1,0 +1,138 @@
+[
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\BasePawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\BasePawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\HealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\HealthComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\Projectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\Projectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\Tank.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\Tank.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTankPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTankPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTanks.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTanks.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\ToonTanksGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\Tower.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\Source\\ToonTanks\\Tower.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Maged\\Documents\\109 - ToonTanksProjectSetup-4.25\\ToonTanksProjectSetup_4.25\\ToonTanks 5.5\\.vscode\\compileCommands_Default\\ToonTanks.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
